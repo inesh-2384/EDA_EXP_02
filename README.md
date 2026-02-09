@@ -1,7 +1,7 @@
 **Ex 2 Netflix Shows & Movies**
 
-# NAME : INESH N
-# REG NO : 212223220036 
+### NAME : INESH N
+### REG NO : 212223220036 
 
 **Aim**
 
