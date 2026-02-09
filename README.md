@@ -55,4 +55,5 @@ print("\nTop 5 Genres:\n", top_genres, "\n")
 <img width="1919" height="1094" alt="Screenshot 2025-09-10 085752" src="https://github.com/user-attachments/assets/c245ec08-941a-4e1d-bf1f-1f842138d23c" />
 
 **Result**
-Helps Netflix in content planning & investments.
+
+Thus, Netflix dataset is analyzed and compared movies vs TV shows, top producing countries, and release year trends successfully.
